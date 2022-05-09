@@ -1,0 +1,17 @@
+mode: set
+kvstore/memstore/memstore.go:21.70,24.19 3 1
+kvstore/memstore/memstore.go:27.2,28.29 2 1
+kvstore/memstore/memstore.go:31.2,32.12 2 1
+kvstore/memstore/memstore.go:24.19,26.3 1 1
+kvstore/memstore/memstore.go:28.29,30.3 1 1
+kvstore/memstore/memstore.go:35.71,40.9 5 1
+kvstore/memstore/memstore.go:43.2,43.15 1 1
+kvstore/memstore/memstore.go:40.9,42.3 1 1
+kvstore/memstore/memstore.go:46.70,50.30 4 1
+kvstore/memstore/memstore.go:53.2,54.12 2 1
+kvstore/memstore/memstore.go:50.30,52.3 1 1
+kvstore/memstore/memstore.go:57.63,61.30 4 1
+kvstore/memstore/memstore.go:64.2,65.12 2 1
+kvstore/memstore/memstore.go:61.30,63.3 1 1
+kvstore/memstore/memstore.go:69.44,73.2 3 1
+kvstore/memstore/memstore.go:76.19,82.2 1 1
